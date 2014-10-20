@@ -1,5 +1,5 @@
-# Socks JS
-Socks JS is a warm, fuzzy, _thin_ wrapper around WebSockets.  Socks aims to add
+# Socks
+Socks is a warm, fuzzy, _thin_ wrapper around WebSockets.  Socks aims to add
 some basic syntactic sugar to your WebSockets without requiring you to relearn
 WebSockets, or even remember that it's there!
 
