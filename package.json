@@ -1,8 +1,12 @@
 {
-  "name": "WebSocks",
+  "name": "websocks",
   "version": "0.0.1",
   "description": "A warm, fuzzy, thin wrapper around WebSockets",
   "keywords": ["WebSocket", "WebSockets", "client"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chall8908/socks.git"
+  },
   "homepage": "https://github.com/chall8908/socks",
   "bugs": "https://github.com/chall8908/socks/issues",
   "license": "MIT",
